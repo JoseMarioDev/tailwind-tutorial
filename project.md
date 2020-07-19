@@ -4,3 +4,4 @@ completed through video 2
 updates 7/13
 updates 7/14
 updates 7/16
+updates 7/19
