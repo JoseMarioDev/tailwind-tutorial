@@ -8,3 +8,4 @@ updates 7/19
 updates 7/29
 updates 7/30
 updates 7/31
+updates 8/2
